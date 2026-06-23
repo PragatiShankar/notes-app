@@ -4,4 +4,4 @@ COPY requirements.txt .
 RUN pip install -r requirement.txt
 COPY . .
 EXPOSE 5000
-CMD ["python", "app.py"]
+CMD ["deployee app to docker", "app.py"]
