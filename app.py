@@ -1,7 +1,7 @@
 from flask import Flask
 app = Flask(__name__)
 notes = [
-    "Learn Dockr",
+    "Learn Dockr & git",
     "Build Project",
     "Deploye App"
 ]
