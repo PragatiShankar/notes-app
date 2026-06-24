@@ -2,7 +2,7 @@ from flask import Flask
 app = Flask(__name__)
 notes = [
     "Learn Dockr & git",
-    "Build Project",
+    "Build Project from exc",
     "Deploye App"
 ]
 @app.route("/")
